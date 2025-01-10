@@ -1,5 +1,5 @@
 # IMG2TXT
-画像からテキストを生成するアプリです。以前Azure OpenAI に接続するアーキテクチャで作成していましたが、AI Builder がファイル入力に対応したためAI Builder で画像入力を受け付けるアプリを作成しました。
+画像からテキストを生成するアプリです。[以前Azure OpenAI に接続するアーキテクチャで作成していました](https://github.com/geekfujiwara/GPT-4oPowerApps)が、AI Builder がファイル入力に対応したためAI Builder で画像入力を受け付けるアプリを作成しました。
 
 > [!Note]
 > Azure OpenAI のリソースを作成する必要なく、ソリューションをインポートすれば利用することができます。
